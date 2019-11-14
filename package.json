@@ -1,0 +1,17 @@
+{
+  "name": "problem-set-3_0",
+  "version": "1.0.0",
+  "description": "Structured Problem solving in JS",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Reuben Ogbonna",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  }
+}
