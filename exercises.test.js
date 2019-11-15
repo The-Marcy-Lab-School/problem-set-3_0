@@ -37,7 +37,7 @@ xtest('Question 5: union', () => {
 xtest('Question 6: firstRecurring', () => {
   expect(exercises.firstRecurring('reuben')).toBe("e");
   expect(exercises.firstRecurring('anne')).toBe("n");
-  expect(exercises.firstRecurring('restaurant')).toBe("a");
+  expect(exercises.firstRecurring('restaurant')).toBe("r");
   expect(exercises.firstRecurring('paul')).toBe("");
 });
 
