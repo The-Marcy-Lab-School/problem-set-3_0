@@ -135,7 +135,6 @@ let wordCap = function(phrase){
   return newPhrase.join(' ');
 }
 
-console.log(wordCap("hello smithy"));
 
 // The below code connects this JS fil to our test file
 module.exports = {
