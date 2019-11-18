@@ -1,5 +1,5 @@
 # Problem Set 3.0
-## Structured Problem Solving
+## List Processing 
 
 ### Directions
 1. Fork and clone this lab

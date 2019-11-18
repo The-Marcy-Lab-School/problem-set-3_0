@@ -1,6 +1,6 @@
 
 
-// The below code connects this JS fil to our test file
+// The below code connects this JS file to our test file
 module.exports = {
   isRealPalindrome,
   runningTotal,

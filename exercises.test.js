@@ -42,8 +42,8 @@ xtest('Question 6: firstRecurring', () => {
 });
 
 xtest('Question 7: showMultiplicativeAverage', () => {
-  expect(exercies.showMultiplicativeAverage([3, 5])).toBe("7.500");
-  expect(exercies.showMultiplicativeAverage([2, 5, 7, 11, 13, 17])).toBe("28361.667");
+  expect(exercises.showMultiplicativeAverage([3, 5])).toBe("7.500");
+  expect(exercises.showMultiplicativeAverage([2, 5, 7, 11, 13, 17])).toBe("28361.667");
 });
 
 xtest('Question 8: multiplyList', () => {
