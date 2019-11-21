@@ -56,11 +56,11 @@ const union = (arr1, arr2) => {
 
 const firstRecurring = (str) => {
   const obj = {};
-  for (const el of str) {
-    if (el in obj) {
-      return el;
+  for (const letter of str) {
+    if (letter in obj) {
+      return letter;
     }
-    obj[el] += 1;
+    obj[letter] += 1;
   }
   return '';
 };
