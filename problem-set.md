@@ -57,7 +57,7 @@
 8. Write a function that takes two array arguments, each containing a list of numbers, and returns a new array that contains the product of each pair of numbers from the arguments that have the same index. You may assume that the arguments contain the same number of elements.
       ```javascript
       multiplyList([3, 5, 7], [9, 10, 11]);  // [27, 50, 77]
-      multiplyLIst([5, 10, 15, 20], [1, 2, 3, 4]);  // [5, 20, 45, 80]
+      multiplyList([5, 10, 15, 20], [1, 2, 3, 4]);  // [5, 20, 45, 80]
       ```
 
 9. Write a function that takes an integer argument, and returns an array containing all integers between 1 and the argument (inclusive), in ascending order. You may assume that the argument will always be a positive integer.
