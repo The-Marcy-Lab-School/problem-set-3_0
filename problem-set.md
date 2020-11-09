@@ -44,7 +44,7 @@
       ```javascript
       firstRecurring('reuben');           // "e"
       firstRecurring('anne');             // "n"
-      firstRecurring('restaurant');       // "a"
+      firstRecurring('restaurant');       // "r"
       firstRecurring('paul');             // ""
       ```
 
