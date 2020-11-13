@@ -109,7 +109,8 @@ const showMultiplicativeAverage = (arr) => {
   //initialize a productAccumulator variable to 1
   //iterate through the inputArray
     //reassign productAccumulator to be productAccumulator multiplied with the current array element
-  //return the productAccumulator divided by the length of the array, fixed to 3 decimal places
+  //calculate average as the productAccumulator divided by the length of the array
+  //return the average fixed to 3 decimal places (use the toFixed() method)
   let product = 1;
   for (let i = 0; i < arr.length; i++) {
     product *= arr[i]
