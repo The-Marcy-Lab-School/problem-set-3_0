@@ -72,11 +72,11 @@ const wordSizes = (sentence) => {
 // Question 5
 const union = (arr1, arr2) => {
   //combine the two input arrays and save it as a variable bothArray
-  //create an empty newArray to return
+  //create an empty newArray as the eventual return value
   //iterate through bothArray
     //if the element is not already in newArray
       //push the element into the newArray
-  //return newArr which contains all numbers but no duplicates;
+  //return newArray which contains all numbers but no duplicates
   const bothArray = [...arr1, ...arr2];
   const newArray = [];
   for (let i = 0; i < bothArray.length; i++) {
