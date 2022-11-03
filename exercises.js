@@ -42,10 +42,6 @@ const sequence = () => {
 
 };
 
-// Question 10
-const wordCap = () => {
-
-};
 
 // The below code connects this JS file to our test file
 module.exports = {
@@ -58,5 +54,4 @@ module.exports = {
   showMultiplicativeAverage,
   multiplyList,
   sequence,
-  wordCap,
 };
