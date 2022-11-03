@@ -1,7 +1,6 @@
 # Unit 3 - Structured Problem Solving
-## Problem Set 3.0
 
-1. Write another function that returns `true` if the string passed as an argument is a palindrome, or `false` otherwise. your function should be case-insensitive, and should ignore all non-alphanumeric characters.
+1. Write a function that returns `true` if the string passed as an argument is a palindrome, or `false` otherwise. your function should be case-insensitive, and should ignore all non-alphanumeric characters.
       ```javascript
       isRealPalindrome('madam');               // true
       isRealPalindrome('Madam');               // true (case does not matter)
