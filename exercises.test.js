@@ -56,8 +56,3 @@ test('Question 9: sequence', () => {
   expect(exercises.sequence(3)).toEqual([1, 2, 3]);
   expect(exercises.sequence(1)).toEqual([1]);
 });
-
-test('Question 10: wordCap', () => {
-  expect(exercises.wordCap('four score and seven')).toBe("Four Score And Seven");
-  expect(exercises.wordCap('the javaScript language')).toBe("The Javascript Language");
-});
