@@ -1,4 +1,4 @@
-# Problem Set 3.0
+# Problem Set: Structured Problem Solving
 ## List Processing 
 
 ### Directions
