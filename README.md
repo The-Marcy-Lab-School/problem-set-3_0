@@ -1,5 +1,4 @@
 # Problem Set: Structured Problem Solving
-## List Processing 
 
 ### Directions
 1. Run `npm install` to load project dependencies.
